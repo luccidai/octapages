@@ -18,7 +18,7 @@
 **Access:** [http://34.171.22.21:5173/dashboard](http://34.171.22.21:5173/dashboard)
 
 1. **Login:** Enter your email and password to access the dashboard.
-2. **View Overview:** The dashboard shows summary cards for Total Conversations, Messages, Contacts, and Response Time.
+2. **View Overview:** For example, on the dashboard you’ll see summary cards such as Total Conversations, Messages, Contacts, and Response Time.
 3. **Check Charts:** Scroll to explore User Activity, Messages Exchanged, Top Categories, and Top Agents charts.
 4. **Change Time Period:** Use the "Day," "Week," or "Month" buttons or click the calendar icon to pick a custom date range.
 5. **Toggle Sidebar:** Click the hamburger icon (top left) to show or hide the sidebar for more space.
