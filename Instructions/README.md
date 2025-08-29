@@ -1,4 +1,4 @@
-# How to Use Guide
+# Short How to Use Guide
 
 ## Chatbot
 
