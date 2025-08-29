@@ -9,6 +9,7 @@
 ### Common Chatbot Popup Buttons and Actions
 
 - **Minimize/Maximize Button**: Clicking this toggles the chat window—minimize it to hide the popup, maximize it to start chatting.
+- **New Chat Button**: Click this to start a fresh conversation and clear the current chat history.
 - **Send Button**: After typing a message, click this to send your input to the AI assistant; the same can usually be achieved by pressing Enter.
 - **Back/Cancel Button**: These may let you exit a specific flow or cancel an action within the conversation.
 
