@@ -13,6 +13,9 @@ Welcome to the OctaPages user guides. All documentation is available below:
 - **[Octa Tasks](External/Octa_TaskPage.md)** – Task management system
 - **[Reminders](External/RemindersPage.md)** – Setting up reminders
 
+## 📋 Instructions
+- **[Luccid.ai How to Use Guide](Instructions/README.md)** – Complete guide for using Luccid.ai dashboard and chatbot
+
 ## 📋 Internal User Guides
 - **[Internal Combined Guide](Internal/combined_octa_agent_hub_guide.md)** – Internal reference
 
